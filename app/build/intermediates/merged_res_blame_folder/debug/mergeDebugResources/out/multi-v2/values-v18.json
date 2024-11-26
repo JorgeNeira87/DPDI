@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.devexperto.movietrailerstv.app-mergeDebugResources-39:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\52844\\.gradle\\caches\\transforms-4\\1f90919f2b37dec31042cf3e60a62416\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\52844\\.gradle\\caches\\transforms-4\\14b7cfcf0383076b3c178e76fb49bb79\\transformed\\leanback-1.2.0-alpha02\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,664",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "659,1251"
+                    },
+                    "to": {
+                        "startLines": "3,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,713",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "708,1300"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_utc_background
+id browse_fragment
+id details_fragment
+id main_browse_fragment
+id main_frame
+layout activity_detail
+layout activity_main
+layout custom_browse_fragment
+mipmap banner
+mipmap ic_launcher
+mipmap ic_utc
+mipmap ic_utc_foreground
+mipmap ic_utc_round
+string api_key
+string app_name
+string browse_title
+string favorite
+string search_hint
+string watch_trailer
+style Theme.MovieTrailersTv

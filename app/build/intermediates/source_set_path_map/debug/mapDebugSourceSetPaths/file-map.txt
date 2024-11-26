@@ -1,0 +1,44 @@
+com.devexperto.movietrailerstv.app-lifecycle-livedata-core-2.6.0-0 C:\Users\52844\.gradle\caches\transforms-4\0a465f0abdb58bc95fb11be27a59cc2d\transformed\lifecycle-livedata-core-2.6.0\res
+com.devexperto.movietrailerstv.app-leanback-1.2.0-alpha02-1 C:\Users\52844\.gradle\caches\transforms-4\14b7cfcf0383076b3c178e76fb49bb79\transformed\leanback-1.2.0-alpha02\res
+com.devexperto.movietrailerstv.app-coordinatorlayout-1.1.0-2 C:\Users\52844\.gradle\caches\transforms-4\16e98d819090d256d994610497ae34db\transformed\coordinatorlayout-1.1.0\res
+com.devexperto.movietrailerstv.app-appcompat-1.6.1-3 C:\Users\52844\.gradle\caches\transforms-4\1f90919f2b37dec31042cf3e60a62416\transformed\appcompat-1.6.1\res
+com.devexperto.movietrailerstv.app-lifecycle-process-2.6.0-4 C:\Users\52844\.gradle\caches\transforms-4\29c4870d5a129a8202cb9fc8dab2aa55\transformed\lifecycle-process-2.6.0\res
+com.devexperto.movietrailerstv.app-core-runtime-2.2.0-5 C:\Users\52844\.gradle\caches\transforms-4\34b86269ad643873c3d33fe4980306d3\transformed\core-runtime-2.2.0\res
+com.devexperto.movietrailerstv.app-cardview-1.0.0-6 C:\Users\52844\.gradle\caches\transforms-4\3dc5b4b696e14da3282afbe5428faf56\transformed\cardview-1.0.0\res
+com.devexperto.movietrailerstv.app-activity-1.6.0-7 C:\Users\52844\.gradle\caches\transforms-4\45ad70d81e54fd94bf544e46df33f817\transformed\activity-1.6.0\res
+com.devexperto.movietrailerstv.app-material-1.8.0-8 C:\Users\52844\.gradle\caches\transforms-4\46d59168e943f9eb78cb91c959f7770f\transformed\material-1.8.0\res
+com.devexperto.movietrailerstv.app-lifecycle-viewmodel-2.6.0-9 C:\Users\52844\.gradle\caches\transforms-4\48761c25dd4cbabebca81d40335260e7\transformed\lifecycle-viewmodel-2.6.0\res
+com.devexperto.movietrailerstv.app-leanback-grid-1.0.0-alpha01-10 C:\Users\52844\.gradle\caches\transforms-4\4c1decee5bf7ae22115668d4a7d1aea4\transformed\leanback-grid-1.0.0-alpha01\res
+com.devexperto.movietrailerstv.app-annotation-experimental-1.3.0-11 C:\Users\52844\.gradle\caches\transforms-4\51f0a715c150e7ce9ce82d5832d0ee35\transformed\annotation-experimental-1.3.0\res
+com.devexperto.movietrailerstv.app-transition-1.2.0-12 C:\Users\52844\.gradle\caches\transforms-4\58c6ac349f65acc24e1ba0ba487210a1\transformed\transition-1.2.0\res
+com.devexperto.movietrailerstv.app-startup-runtime-1.1.1-13 C:\Users\52844\.gradle\caches\transforms-4\63a23c070c2b20b46851788faf0756d9\transformed\startup-runtime-1.1.1\res
+com.devexperto.movietrailerstv.app-fragment-ktx-1.5.5-14 C:\Users\52844\.gradle\caches\transforms-4\66363b80aaeb1e900235cfb8d2b2b8a0\transformed\fragment-ktx-1.5.5\res
+com.devexperto.movietrailerstv.app-viewpager2-1.0.0-15 C:\Users\52844\.gradle\caches\transforms-4\6887b4871c15685db0b0d8e9a5ccafaa\transformed\viewpager2-1.0.0\res
+com.devexperto.movietrailerstv.app-drawerlayout-1.1.1-16 C:\Users\52844\.gradle\caches\transforms-4\74f334cc844c5e6a1a328ae6730c3243\transformed\drawerlayout-1.1.1\res
+com.devexperto.movietrailerstv.app-lifecycle-livedata-core-ktx-2.6.0-17 C:\Users\52844\.gradle\caches\transforms-4\8824bab930ce72c392384e59acd0e209\transformed\lifecycle-livedata-core-ktx-2.6.0\res
+com.devexperto.movietrailerstv.app-emoji2-views-helper-1.2.0-18 C:\Users\52844\.gradle\caches\transforms-4\8c891ad6f402324dfaed029b0331ba56\transformed\emoji2-views-helper-1.2.0\res
+com.devexperto.movietrailerstv.app-lifecycle-viewmodel-ktx-2.6.0-19 C:\Users\52844\.gradle\caches\transforms-4\90857a6f98b1f0b8bd4de06868ea684c\transformed\lifecycle-viewmodel-ktx-2.6.0\res
+com.devexperto.movietrailerstv.app-emoji2-1.2.0-20 C:\Users\52844\.gradle\caches\transforms-4\944dacf82a8a4f0c0b4eaedcf93d1b58\transformed\emoji2-1.2.0\res
+com.devexperto.movietrailerstv.app-savedstate-1.2.0-21 C:\Users\52844\.gradle\caches\transforms-4\973900610ef8a15d9c6bab45bc4725f2\transformed\savedstate-1.2.0\res
+com.devexperto.movietrailerstv.app-lifecycle-runtime-2.6.0-22 C:\Users\52844\.gradle\caches\transforms-4\9a77a723ec0ad7023d3844a4d6cd6982\transformed\lifecycle-runtime-2.6.0\res
+com.devexperto.movietrailerstv.app-fragment-1.5.5-23 C:\Users\52844\.gradle\caches\transforms-4\ab50633d24dd5150e8aaa866ee40a6e3\transformed\fragment-1.5.5\res
+com.devexperto.movietrailerstv.app-glide-4.15.0-24 C:\Users\52844\.gradle\caches\transforms-4\bc98d53e4ffc8ac249a92c11ad8a832e\transformed\glide-4.15.0\res
+com.devexperto.movietrailerstv.app-lifecycle-runtime-ktx-2.6.0-25 C:\Users\52844\.gradle\caches\transforms-4\c657f62ca62c926d032124603d0172dc\transformed\lifecycle-runtime-ktx-2.6.0\res
+com.devexperto.movietrailerstv.app-core-ktx-1.9.0-26 C:\Users\52844\.gradle\caches\transforms-4\cc0829dba3c6a4c9a1d279e675f52f28\transformed\core-ktx-1.9.0\res
+com.devexperto.movietrailerstv.app-recyclerview-1.2.1-27 C:\Users\52844\.gradle\caches\transforms-4\cff0f95b98d997b5454989a1f69f6fb3\transformed\recyclerview-1.2.1\res
+com.devexperto.movietrailerstv.app-appcompat-resources-1.6.1-28 C:\Users\52844\.gradle\caches\transforms-4\e92b8ea2656ebe44e845e1ce79409c40\transformed\appcompat-resources-1.6.1\res
+com.devexperto.movietrailerstv.app-lifecycle-livedata-2.6.0-29 C:\Users\52844\.gradle\caches\transforms-4\e95afd0c3c66abf173425de91d6dd12d\transformed\lifecycle-livedata-2.6.0\res
+com.devexperto.movietrailerstv.app-profileinstaller-1.2.1-30 C:\Users\52844\.gradle\caches\transforms-4\ef8c911c91f80bb386d5f2da8bb9427e\transformed\profileinstaller-1.2.1\res
+com.devexperto.movietrailerstv.app-media-1.0.0-31 C:\Users\52844\.gradle\caches\transforms-4\f0efb8950d4ab2f688bc6cca3d2567b7\transformed\media-1.0.0\res
+com.devexperto.movietrailerstv.app-constraintlayout-2.1.4-32 C:\Users\52844\.gradle\caches\transforms-4\f175c625f88ccea62b0399080df7a05f\transformed\constraintlayout-2.1.4\res
+com.devexperto.movietrailerstv.app-activity-ktx-1.6.0-33 C:\Users\52844\.gradle\caches\transforms-4\f27e9ef1851031aab03bad50790e5c0d\transformed\activity-ktx-1.6.0\res
+com.devexperto.movietrailerstv.app-savedstate-ktx-1.2.0-34 C:\Users\52844\.gradle\caches\transforms-4\f6ca027541110fd98c406c52e5cf3562\transformed\savedstate-ktx-1.2.0\res
+com.devexperto.movietrailerstv.app-lifecycle-viewmodel-savedstate-2.6.0-35 C:\Users\52844\.gradle\caches\transforms-4\fe726a0df20eea807bd9cc50ba2e121d\transformed\lifecycle-viewmodel-savedstate-2.6.0\res
+com.devexperto.movietrailerstv.app-core-1.9.0-36 C:\Users\52844\.gradle\caches\transforms-4\ff1d946ada663871d0e142daf2940763\transformed\core-1.9.0\res
+com.devexperto.movietrailerstv.app-pngs-37 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\generated\res\pngs\debug
+com.devexperto.movietrailerstv.app-resValues-38 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\generated\res\resValues\debug
+com.devexperto.movietrailerstv.app-packageDebugResources-39 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.devexperto.movietrailerstv.app-packageDebugResources-40 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.devexperto.movietrailerstv.app-debug-41 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.devexperto.movietrailerstv.app-debug-42 C:\Users\52844\AndroidStudioProjects\UTC View\app\src\debug\res
+com.devexperto.movietrailerstv.app-main-43 C:\Users\52844\AndroidStudioProjects\UTC View\app\src\main\res

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/drawable_ic_utc_background.xml.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/drawable/ic_utc_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\layout_custom_browse_fragment.xml.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\layout\\custom_browse_fragment.xml"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xhdpi_ic_utc_round.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xhdpi/ic_utc_round.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-hdpi_ic_utc.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-hdpi/ic_utc.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-anydpi-v26_ic_utc.xml.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-anydpi-v26/ic_utc.xml"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxxhdpi_ic_utc.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxxhdpi/ic_utc.png"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-hdpi_banner.png.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-hdpi\\banner.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxxhdpi_ic_utc_round.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxxhdpi/ic_utc_round.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-hdpi_ic_utc_foreground.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-hdpi/ic_utc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-mdpi_ic_utc_round.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-mdpi/ic_utc_round.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-mdpi_ic_utc_foreground.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-mdpi/ic_utc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxhdpi_ic_utc_round.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxhdpi/ic_utc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-anydpi-v26_ic_utc_round.xml.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-anydpi-v26/ic_utc_round.xml"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxxhdpi_ic_utc_foreground.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxxhdpi/ic_utc_foreground.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-mdpi_ic_utc.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-mdpi/ic_utc.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxhdpi_ic_utc_foreground.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxhdpi/ic_utc_foreground.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xhdpi_ic_utc.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xhdpi/ic_utc.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xxhdpi_ic_utc.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xxhdpi/ic_utc.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-hdpi_ic_utc_round.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-hdpi/ic_utc_round.png"
+    },
+    {
+        "merged": "com.devexperto.movietrailerstv.app-debug-41:/mipmap-xhdpi_ic_utc_foreground.png.flat",
+        "source": "com.devexperto.movietrailerstv.app-main-43:/mipmap-xhdpi/ic_utc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\52844\\.gradle\\daemon\\8.7\\com.devexperto.movietrailerstv.app-main-43:\\layout\\activity_main.xml"
+    }
+]

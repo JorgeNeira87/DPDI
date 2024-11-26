@@ -1,0 +1,4 @@
+com.devexperto.movietrailerstv.test.app-androidTest-0 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\generated\res\resValues\androidTest\debug
+com.devexperto.movietrailerstv.test.app-mergeDebugAndroidTestResources-1 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.devexperto.movietrailerstv.test.app-mergeDebugAndroidTestResources-2 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.devexperto.movietrailerstv.test.app-debugAndroidTest-3 C:\Users\52844\AndroidStudioProjects\UTC View\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

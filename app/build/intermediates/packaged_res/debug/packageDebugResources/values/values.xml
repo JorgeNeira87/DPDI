@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key" translatable="false">d30e1f350220f9aad6c4110df385d380</string>
+    <string name="app_name">UTC View</string>
+    <string name="browse_title">Buscar</string>
+    <string name="favorite">Favoritos</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="watch_trailer">Trailer</string>
+    <style name="Theme.MovieTrailersTv" parent="@style/Theme.Leanback">
+        <item name="android:colorPrimary">#051035</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+    </style>
+</resources>

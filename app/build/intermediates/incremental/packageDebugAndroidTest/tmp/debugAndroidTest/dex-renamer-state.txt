@@ -1,0 +1,7 @@
+#Sun Nov 24 19:08:18 CST 2024
+base.0=C\:\\Users\\52844\\AndroidStudioProjects\\UTC View\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\52844\\AndroidStudioProjects\\UTC View\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+path.0=0/classes.dex
+path.1=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
